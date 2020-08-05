@@ -9,17 +9,6 @@ A barebones quickstart app for real time messaging on react-native using Agora.i
 
 ## Running this example project
 
-### Structure
-
-```
-.
-├── src
-│ └── rtm-adapter.ts
-├── App.js
-├── package.json
-.
-```
-
 ### Generate an App ID
 
 In the next step, you need to use the App ID of your project. Follow these steps to [create an Agora project](https://docs.agora.io/en/Agora%20Platform/manage_projects?platform=All%20Platforms) in Console and get an [App ID](https://docs.agora.io/en/Agora%20Platform/terms?platform=All%20Platforms#a-nameappidaapp-id ).
@@ -30,12 +19,12 @@ In the next step, you need to use the App ID of your project. Follow these steps
 
 Check the end of document if you want to use App ID with certificate.
 
-### Steps to run our example
+### Steps to run this example
 
 * Download and extract the zip file from the master branch.
 * Run yarn install to install the app dependencies in the unzipped directory.
-* Navigate to `./src/rtm-adapter.js` and edit line 4 to enter your App ID that we generated.
+* Edit line 12 of `App.js` to enter your App ID that we generated.
 * Open a terminal and execute `yarn start`.
 * Open another terminal and execute `yarn android` or `yarn ios`.
 
-The app uses `x` as the channel name.
+The app uses `channel-x` as the channel name, you can change it on line 12 of `App.js`.
