@@ -1167,10 +1167,10 @@ acorn@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.3.1.tgz#85010754db53c3fbaf3b9ea3e083aa5c5d147ffd"
   integrity sha512-tLc0wSnatxAQHVHUapaHdz72pi9KUyHjq5KyHjGg9Y8Ifdc79pTh2XvI6I1/chZbnM7QtNKzh66ooDogPZSleA==
 
-agora-react-native-rtm@^1.0.1-alpha.1:
-  version "1.0.1-alpha.1"
-  resolved "https://registry.yarnpkg.com/agora-react-native-rtm/-/agora-react-native-rtm-1.0.1-alpha.1.tgz#d1c9d1366f2a9e0f82e46eb6c05b038e7ed10012"
-  integrity sha512-1vFH3L980MArF2sruripWtZ+dSI+BjhjsNrkETfwRvgJp2Bv9R8mOnlItxPBZPPzTieJWMCFQPUPowrYIrW2OQ==
+agora-react-native-rtm@^1.2.2-alpha.1:
+  version "1.2.2-alpha.1"
+  resolved "https://registry.yarnpkg.com/agora-react-native-rtm/-/agora-react-native-rtm-1.2.2-alpha.1.tgz#dad0157a016f3c99cc327a37d8343a2a7564b5c4"
+  integrity sha512-1s4oJX65R78w+M5JiTf3TkEaL4Hz2u5eZtAWisDH0fYwE5Chi4O8yI//8vS39lydtiPsaO6EiZM8Y/37N79cfw==
   dependencies:
     tslib "^1.9.3"
 
